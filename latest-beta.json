@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "notes": "Beta 1.1.0 - in-plugin update notifications, big CPU cuts, cleaner clipper, updated presets + manual.",
-  "mac": "https://github.com/officialolg-tech/nucleus-updates/releases/download/installers/Nucleus-BETA-Installer-1.1.0.pkg",
-  "win": "https://github.com/officialolg-tech/nucleus-updates/releases/download/installers/Nucleus-BETA-Installer-1.1.0.exe",
-  "url": "https://github.com/officialolg-tech/nucleus-updates/releases/download/installers/Nucleus-BETA-Installer-1.1.0.pkg"
+  "mac": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleusbeta",
+  "win": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleusbeta",
+  "url": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleusbeta"
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "notes": "NUCLEUS ZEO 1.0 - the official ZEO edition.",
-  "mac": "https://github.com/officialolg-tech/nucleus-updates/releases/download/installers/NUCLEUS-ZEO-Installer-1.0.0.pkg",
-  "win": "https://github.com/officialolg-tech/nucleus-updates/releases/download/installers/NUCLEUS-ZEO-Installer-1.0.0.exe",
-  "url": "https://github.com/officialolg-tech/nucleus-updates/releases/download/installers/NUCLEUS-ZEO-Installer-1.0.0.pkg"
+  "mac": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleus-zeo-edition",
+  "win": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleus-zeo-edition",
+  "url": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleus-zeo-edition"
 }
