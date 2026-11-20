@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "notes": "NUCLEUS 1.0 - the official release.",
+  "version": "1.0.1",
+  "notes": "NUCLEUS 1.0.1 — waveform speed control, larger spectrum view, reactive tone-tilt glow, BLIND accessibility size option, background-FX fixes, plus CPU and stability improvements.",
   "mac": "https://oceanlifegianni.moonbase.sh/download/nucleus",
   "win": "https://oceanlifegianni.moonbase.sh/download/nucleus",
   "url": "https://oceanlifegianni.moonbase.sh/download/nucleus"
