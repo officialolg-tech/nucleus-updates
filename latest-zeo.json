@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "notes": "NUCLEUS ZEO 1.0 - the official ZEO edition.",
+  "version": "1.0.1",
+  "notes": "NUCLEUS ZEO 1.0.1 — waveform speed control, larger spectrum view, reactive tone-tilt glow, BLIND accessibility size option, ZEO background-FX toggle fix, plus CPU and stability improvements.",
   "mac": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleus-zeo-edition",
   "win": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleus-zeo-edition",
   "url": "https://oceanlifegianni.moonbase.sh/download/nucleus.nucleus-zeo-edition"
